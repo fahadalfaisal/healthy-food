@@ -7,9 +7,7 @@ h1 {
   padding-top: 60px;
   color: rgb(94, 94, 94);
 }
-p {
-  text-align: justify;
-}
+
 .gray {
   color: gray;
 }
@@ -46,8 +44,14 @@ p {
 }
 .about-us p {
   padding-right: 10%;
+  text-align: justify;
 }
 .about-us img {
   width: 50%;
   padding-left: 120px;
+}
+.recipe-header {
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
 }
